@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vaishnavanS/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vaishnavanS/Leet_Code/tree/master/0010-regular-expression-matching) |
+| [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vaishnavanS/Leet_Code/tree/master/0010-regular-expression-matching) |
+| [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

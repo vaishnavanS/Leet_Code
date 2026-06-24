@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/vaishnavanS/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/vaishnavanS/Leet_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/vaishnavanS/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/vaishnavanS/Leet_Code/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/vaishnavanS/Leet_Code/tree/master/1894-merge-strings-alternately) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0953-reverse-only-letters](https://github.com/vaishnavanS/Leet_Code/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/vaishnavanS/Leet_Code/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

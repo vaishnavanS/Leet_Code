@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/vaishnavanS/Leet_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Math
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/vaishnavanS/Leet_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 ## String
 |  |
 | ------- |

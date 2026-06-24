@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/vaishnavanS/Leet_Code/tree/master/0953-reverse-only-letters) |
+| [1894-merge-strings-alternately](https://github.com/vaishnavanS/Leet_Code/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
 | [0953-reverse-only-letters](https://github.com/vaishnavanS/Leet_Code/tree/master/0953-reverse-only-letters) |
+| [1894-merge-strings-alternately](https://github.com/vaishnavanS/Leet_Code/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |

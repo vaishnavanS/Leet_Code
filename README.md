@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2350-find-closest-number-to-zero](https://github.com/vaishnavanS/Leet_Code/tree/master/2350-find-closest-number-to-zero) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/vaishnavanS/Leet_Code/tree/master/2824-check-if-the-number-is-fascinating) |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +105,24 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

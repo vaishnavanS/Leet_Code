@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/vaishnavanS/Leet_Code/tree/master/0953-reverse-only-letters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavanS/Leet_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/vaishnavanS/Leet_Code/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavanS/Leet_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
 | ------- |

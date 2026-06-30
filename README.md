@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
+| [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2350-find-closest-number-to-zero](https://github.com/vaishnavanS/Leet_Code/tree/master/2350-find-closest-number-to-zero) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
+| [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/vaishnavanS/Leet_Code/tree/master/0953-reverse-only-letters) |
 | [1894-merge-strings-alternately](https://github.com/vaishnavanS/Leet_Code/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
+| [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->

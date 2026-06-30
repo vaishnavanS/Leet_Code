@@ -3,5 +3,8 @@ class Solution(object):
         res = []
         for i in image:
             i.reverse()
-            res.append([x^1 for x in i])
+            for x in range(len(i)):
+                i[x] = 1  - i[x]
+            res.append(i)
         return res
+        

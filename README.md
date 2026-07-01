@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/vaishnavanS/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

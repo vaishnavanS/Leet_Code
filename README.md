@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/vaishnavanS/Leet_Code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/vaishnavanS/Leet_Code/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0088-merge-sorted-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavanS/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vaishnavanS/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/vaishnavanS/Leet_Code/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/vaishnavanS/Leet_Code/tree/master/1022-unique-paths-iii) |
 ## Simulation

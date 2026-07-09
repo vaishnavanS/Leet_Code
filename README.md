@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vaishnavanS/Leet_Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavanS/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/vaishnavanS/Leet_Code/tree/master/1022-unique-paths-iii) |

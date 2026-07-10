@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
 | [0740-delete-and-earn](https://github.com/vaishnavanS/Leet_Code/tree/master/0740-delete-and-earn) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/vaishnavanS/Leet_Code/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |

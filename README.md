@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vaishnavanS/Leet_Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0213-house-robber-ii) |
+| [0219-contains-duplicate-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
 | [0740-delete-and-earn](https://github.com/vaishnavanS/Leet_Code/tree/master/0740-delete-and-earn) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/vaishnavanS/Leet_Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vaishnavanS/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaishnavanS/Leet_Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |

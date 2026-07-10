@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/vaishnavanS/Leet_Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/vaishnavanS/Leet_Code/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/vaishnavanS/Leet_Code/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/vaishnavanS/Leet_Code/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/vaishnavanS/Leet_Code/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 ## Backtracking
 |  |

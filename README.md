@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/vaishnavanS/Leet_Code/tree/master/0455-assign-cookies) |
+| [0740-delete-and-earn](https://github.com/vaishnavanS/Leet_Code/tree/master/0740-delete-and-earn) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/vaishnavanS/Leet_Code/tree/master/1022-unique-paths-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
+| [0740-delete-and-earn](https://github.com/vaishnavanS/Leet_Code/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/vaishnavanS/Leet_Code/tree/master/0782-jewels-and-stones) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/vaishnavanS/Leet_Code/tree/master/2824-check-if-the-number-is-fascinating) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/vaishnavanS/Leet_Code/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/vaishnavanS/Leet_Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0213-house-robber-ii) |
+| [0740-delete-and-earn](https://github.com/vaishnavanS/Leet_Code/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/vaishnavanS/Leet_Code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |

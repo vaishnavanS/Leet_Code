@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vaishnavanS/Leet_Code/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/vaishnavanS/Leet_Code/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/vaishnavanS/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vaishnavanS/Leet_Code/tree/master/0066-plus-one) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vaishnavanS/Leet_Code/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/vaishnavanS/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0047-permutations-ii) |
 | [1022-unique-paths-iii](https://github.com/vaishnavanS/Leet_Code/tree/master/1022-unique-paths-iii) |
 ## Stack

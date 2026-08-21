@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavanS/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vaishnavanS/Leet_Code/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/vaishnavanS/Leet_Code/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/vaishnavanS/Leet_Code/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/vaishnavanS/Leet_Code/tree/master/1022-unique-paths-iii) |
 ## Simulation
@@ -214,7 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
-## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
@@ -222,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vaishnavanS/Leet_Code/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaishnavanS/Leet_Code/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaishnavanS/Leet_Code/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/vaishnavanS/Leet_Code/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

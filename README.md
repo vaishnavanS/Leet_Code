@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/vaishnavanS/Leet_Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vaishnavanS/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/vaishnavanS/Leet_Code/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vaishnavanS/Leet_Code/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0088-merge-sorted-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/vaishnavanS/Leet_Code/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
@@ -212,8 +214,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
-## BoyerÃ¢ÂÂMoore String-Search Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/vaishnavanS/Leet_Code/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/vaishnavanS/Leet_Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vaishnavanS/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/vaishnavanS/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/vaishnavanS/Leet_Code/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/vaishnavanS/Leet_Code/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/vaishnavanS/Leet_Code/tree/master/0402-remove-k-digits) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/vaishnavanS/Leet_Code/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vaishnavanS/Leet_Code/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/vaishnavanS/Leet_Code/tree/master/0567-permutation-in-string) |
@@ -194,4 +198,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vaishnavanS/Leet_Code/tree/master/0062-unique-paths) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
+## BoyerâMoore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->

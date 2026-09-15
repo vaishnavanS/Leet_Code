@@ -220,7 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |

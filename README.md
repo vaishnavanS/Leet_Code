@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/vaishnavanS/Leet_Code/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/vaishnavanS/Leet_Code/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/vaishnavanS/Leet_Code/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/vaishnavanS/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavanS/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vaishnavanS/Leet_Code/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/vaishnavanS/Leet_Code/tree/master/0013-roman-to-integer) |
+| [0079-word-search](https://github.com/vaishnavanS/Leet_Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vaishnavanS/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/vaishnavanS/Leet_Code/tree/master/0242-valid-anagram) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/vaishnavanS/Leet_Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vaishnavanS/Leet_Code/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/vaishnavanS/Leet_Code/tree/master/0861-flipping-an-image) |
 | [1022-unique-paths-iii](https://github.com/vaishnavanS/Leet_Code/tree/master/1022-unique-paths-iii) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/vaishnavanS/Leet_Code/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/vaishnavanS/Leet_Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaishnavanS/Leet_Code/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/vaishnavanS/Leet_Code/tree/master/0079-word-search) |
 | [1022-unique-paths-iii](https://github.com/vaishnavanS/Leet_Code/tree/master/1022-unique-paths-iii) |
 ## Stack
 |  |
@@ -216,7 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vaishnavanS/Leet_Code/tree/master/0187-repeated-dna-sequences) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vaishnavanS/Leet_Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/vaishnavanS/Leet_Code/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
